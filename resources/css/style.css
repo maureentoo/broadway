@@ -55,9 +55,11 @@ p {
 #footer {
   color: white;
   background-color: dimgray;
+  height: 17px;
+  width: 100%
+  display: inline-block;
   text-align: left;
-  font-size: 11px;
-  height: 18px;
+  font-size: 14px;
 }
 
 h1 {
